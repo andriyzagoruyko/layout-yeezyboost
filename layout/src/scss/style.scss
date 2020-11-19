@@ -1,7 +1,3 @@
-@import "libs/_normalize";
-@import "libs/_lightgallery";
-@import "libs/_lg-transitions";
-
 $md1: 1920;
 $md2: 1470;
 $md3: 1300;
@@ -11,11 +7,11 @@ $md6: 640;
 $md7: 480;
 $md8: 330;
 
-@import "common/vars";
-@import "common/utils";
-@import "common/fonts";
-@import "common/anim";
+
+
+
 @import "common/global";
+
 @import "parts/header";
 @import "parts/section-benefits";
 @import "parts/section-products";

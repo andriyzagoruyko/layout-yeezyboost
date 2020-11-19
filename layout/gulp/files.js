@@ -1,7 +1,7 @@
 const del = require('del');
 
 const source_folder = "src",
-    dist_folder = ["dist"];
+    dist_folder = ["dist", "H:/web/ospanel/domains/dist"];
 
 path = {
     src: {

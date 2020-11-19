@@ -13,4 +13,11 @@ function html() {
         .pipe(browsersync.stream());
 }
 
-module.exports = { html };
+function htmlProduction() {
+    return src(path.src.html)
+        .pipe(fileinclude())
+        .pipe(pretty_html())
+        .pipe(dest(path.build.html[0]))
+}
+
+module.exports = { html, htmlProduction };

@@ -1,0 +1,548 @@
+[
+    {
+        "name": "YEEZY Boost 350",
+        "oldPrice": 1399,
+        "price": 999,
+        "sizes": [
+            {
+                "size": 36,
+                "info": "23.0"
+            },
+            {
+                "size": 37,
+                "info": "23.5"
+            },
+            {
+                "size": 38,
+                "info": "24.0"
+            },
+            {
+                "size": 39,
+                "info": "25.0"
+            },
+            {
+                "size": 40,
+                "info": "25.5"
+            },
+            {
+                "size": 41,
+                "info": "26.0"
+            },
+            {
+                "size": 42,
+                "info": "26.5"
+            },
+            {
+                "size": 43,
+                "info": "27.5"
+            },
+            {
+                "size": 44,
+                "info": "28.5"
+            }
+        ],
+        "images": [
+            {
+                "thumb": "/assets/img/products/01/01.jpg",
+                "full": "/assets/img/products/01/01-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            }
+        ],
+        "props": [
+            {
+                "name": "Материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Внутренний материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Подошва:",
+                "value": "Вспененный полиуретан"
+            },
+            {
+                "name": "Цвет:",
+                "value": "Серый"
+            },
+            {
+                "name": "Сезон:",
+                "value": "весна/лето"
+            },
+            {
+                "name": "Гарантия:",
+                "value": "60 дней"
+            },
+            {
+                "name": "Обмен/возврат::",
+                "value": "14 дней"
+            },
+            {
+                "name": "Размеры:",
+                "value": "41 41 42 43 44 45"
+            }
+        ]
+    },
+    {
+        "name": "YEEZY Boost 350 2",
+        "oldPrice": 1399,
+        "price": 999,
+        "sizes": [
+            {
+                "size": 36,
+                "info": "23.0"
+            },
+            {
+                "size": 37,
+                "info": "23.5"
+            },
+            {
+                "size": 38,
+                "info": "24.0"
+            },
+            {
+                "size": 39,
+                "info": "25.0"
+            },
+            {
+                "size": 40,
+                "info": "25.5"
+            },
+            {
+                "size": 41,
+                "info": "26.0"
+            },
+            {
+                "size": 42,
+                "info": "26.5"
+            },
+            {
+                "size": 43,
+                "info": "27.5"
+            },
+            {
+                "size": 44,
+                "info": "28.5"
+            }
+        ],
+        "images": [
+            {
+                "thumb": "/assets/img/products/01/01.jpg",
+                "full": "/assets/img/products/01/01-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            }
+        ],
+        "props": [
+            {
+                "name": "Материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Внутренний материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Подошва:",
+                "value": "Вспененный полиуретан"
+            },
+            {
+                "name": "Цвет:",
+                "value": "Серый"
+            },
+            {
+                "name": "Сезон:",
+                "value": "весна/лето"
+            },
+            {
+                "name": "Гарантия:",
+                "value": "60 дней"
+            },
+            {
+                "name": "Обмен/возврат::",
+                "value": "14 дней"
+            },
+            {
+                "name": "Размеры:",
+                "value": "41 41 42 43 44 45"
+            }
+        ]
+    },
+    {
+        "name": "YEEZY Boost 350 3",
+        "oldPrice": 1399,
+        "price": 999,
+        "sizes": [
+            {
+                "size": 36,
+                "info": "23.0"
+            },
+            {
+                "size": 37,
+                "info": "23.5"
+            },
+            {
+                "size": 38,
+                "info": "24.0"
+            },
+            {
+                "size": 39,
+                "info": "25.0"
+            },
+            {
+                "size": 40,
+                "info": "25.5"
+            },
+            {
+                "size": 41,
+                "info": "26.0"
+            },
+            {
+                "size": 42,
+                "info": "26.5"
+            },
+            {
+                "size": 43,
+                "info": "27.5"
+            },
+            {
+                "size": 44,
+                "info": "28.5"
+            }
+        ],
+        "images": [
+            {
+                "thumb": "/assets/img/products/01/01.jpg",
+                "full": "/assets/img/products/01/01-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            }
+        ],
+        "props": [
+            {
+                "name": "Материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Внутренний материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Подошва:",
+                "value": "Вспененный полиуретан"
+            },
+            {
+                "name": "Цвет:",
+                "value": "Серый"
+            },
+            {
+                "name": "Сезон:",
+                "value": "весна/лето"
+            },
+            {
+                "name": "Гарантия:",
+                "value": "60 дней"
+            },
+            {
+                "name": "Обмен/возврат::",
+                "value": "14 дней"
+            },
+            {
+                "name": "Размеры:",
+                "value": "41 41 42 43 44 45"
+            }
+        ]
+    },
+    {
+        "name": "YEEZY Boost 350 4",
+        "oldPrice": 1399,
+        "price": 999,
+        "sizes": [
+            {
+                "size": 36,
+                "info": "23.0"
+            },
+            {
+                "size": 37,
+                "info": "23.5"
+            },
+            {
+                "size": 38,
+                "info": "24.0"
+            },
+            {
+                "size": 39,
+                "info": "25.0"
+            },
+            {
+                "size": 40,
+                "info": "25.5"
+            },
+            {
+                "size": 41,
+                "info": "26.0"
+            },
+            {
+                "size": 42,
+                "info": "26.5"
+            },
+            {
+                "size": 43,
+                "info": "27.5"
+            },
+            {
+                "size": 44,
+                "info": "28.5"
+            }
+        ],
+        "images": [
+            {
+                "thumb": "/assets/img/products/01/01.jpg",
+                "full": "/assets/img/products/01/01-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            }
+        ],
+        "props": [
+            {
+                "name": "Материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Внутренний материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Подошва:",
+                "value": "Вспененный полиуретан"
+            },
+            {
+                "name": "Цвет:",
+                "value": "Серый"
+            },
+            {
+                "name": "Сезон:",
+                "value": "весна/лето"
+            },
+            {
+                "name": "Гарантия:",
+                "value": "60 дней"
+            },
+            {
+                "name": "Обмен/возврат::",
+                "value": "14 дней"
+            },
+            {
+                "name": "Размеры:",
+                "value": "41 41 42 43 44 45"
+            }
+        ]
+    },
+    {
+        "name": "YEEZY Boost 350 5",
+        "oldPrice": 1399,
+        "price": 999,
+        "sizes": [
+            {
+                "size": 36,
+                "info": "23.0"
+            },
+            {
+                "size": 37,
+                "info": "23.5"
+            },
+            {
+                "size": 38,
+                "info": "24.0"
+            },
+            {
+                "size": 39,
+                "info": "25.0"
+            },
+            {
+                "size": 40,
+                "info": "25.5"
+            },
+            {
+                "size": 41,
+                "info": "26.0"
+            },
+            {
+                "size": 42,
+                "info": "26.5"
+            },
+            {
+                "size": 43,
+                "info": "27.5"
+            },
+            {
+                "size": 44,
+                "info": "28.5"
+            }
+        ],
+        "images": [
+            {
+                "thumb": "/assets/img/products/01/01.jpg",
+                "full": "/assets/img/products/01/01-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            }
+        ],
+        "props": [
+            {
+                "name": "Материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Внутренний материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Подошва:",
+                "value": "Вспененный полиуретан"
+            },
+            {
+                "name": "Цвет:",
+                "value": "Серый"
+            },
+            {
+                "name": "Сезон:",
+                "value": "весна/лето"
+            },
+            {
+                "name": "Гарантия:",
+                "value": "60 дней"
+            },
+            {
+                "name": "Обмен/возврат::",
+                "value": "14 дней"
+            },
+            {
+                "name": "Размеры:",
+                "value": "41 41 42 43 44 45"
+            }
+        ]
+    },
+    {
+        "name": "YEEZY Boost 350 6",
+        "oldPrice": 1399,
+        "price": 999,
+        "sizes": [
+            {
+                "size": 36,
+                "info": "23.0"
+            },
+            {
+                "size": 37,
+                "info": "23.5"
+            },
+            {
+                "size": 38,
+                "info": "24.0"
+            },
+            {
+                "size": 39,
+                "info": "25.0"
+            },
+            {
+                "size": 40,
+                "info": "25.5"
+            },
+            {
+                "size": 41,
+                "info": "26.0"
+            },
+            {
+                "size": 42,
+                "info": "26.5"
+            },
+            {
+                "size": 43,
+                "info": "27.5"
+            },
+            {
+                "size": 44,
+                "info": "28.5"
+            }
+        ],
+        "images": [
+            {
+                "thumb": "/assets/img/products/01/01.jpg",
+                "full": "/assets/img/products/01/01-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            },
+            {
+                "thumb": "/assets/img/products/01/02.jpg",
+                "full": "/assets/img/products/01/02-full.jpg"
+            }
+        ],
+        "props": [
+            {
+                "name": "Материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Внутренний материал:",
+                "value": "Текстиль"
+            },
+            {
+                "name": "Подошва:",
+                "value": "Вспененный полиуретан"
+            },
+            {
+                "name": "Цвет:",
+                "value": "Серый"
+            },
+            {
+                "name": "Сезон:",
+                "value": "весна/лето"
+            },
+            {
+                "name": "Гарантия:",
+                "value": "60 дней"
+            },
+            {
+                "name": "Обмен/возврат::",
+                "value": "14 дней"
+            },
+            {
+                "name": "Размеры:",
+                "value": "41 41 42 43 44 45"
+            }
+        ]
+    }
+]

@@ -277,7 +277,7 @@
             position: relative;
         }
 
-        .error {
+        span.error {
             display: inline-block;
             position: absolute;
             transform: translateY(-100%);
@@ -311,6 +311,7 @@
         &__column {
             flex: 0 0 45%;
             text-align: left;
+            position: relative;
 
             &:not(:last-child) {
                 margin: 0 50px 0 0;
@@ -346,7 +347,7 @@
             text-align: center;
         }
 
-        &.succes {
+        &.success {
             background: #a9ffd3ad;
             border: solid 1px #6ccc9b;
         }

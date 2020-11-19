@@ -1,7 +1,7 @@
 <div class="modal-container">
     <div class="modal">
         <div class="modal__overlay"></div>
-        <div class="modal__popup popup">
+        <div class="modal__popup popup" id="modal">
             <div class="popup__container">
                 <div class="popup__modal">
                     <div class="popup__header">
@@ -14,11 +14,18 @@
                                 <div class="popup__slider slider">
                                     <div class="swiper-wrapper"></div>
                                     <div class="swiper-pagination"></div>
-                                    <div class="slider__btn-prev"></div>
-                                    <div class="slider__btn-next"></div>
+                                    <button class="slider__btn-prev"></button>
+                                    <button class="slider__btn-next"></button>
                                 </div>
                             </div>
-                            <div class="popup__size"></div>
+                            <div class="popup__size change-size">
+                                <button class="change-size__button" data-change="minus"><img src="assets/img/icons/minus.svg" alt=""></button>
+                                <div class="change-size__text">
+                                    <div class="change-size__current"></div>
+                                    <div class="change-size__additional">размер <b>(<span></span> см)</b></div>
+                                </div>
+                                <button class="change-size__button" data-change="plus"><img src="assets/img/icons/plus.svg" alt=""></button>
+                            </div>
                         </div>
                         <div class="popup__column">
                             <div class="popup__info"></div>
@@ -30,11 +37,11 @@
                             <div class="form__row">
                                 <div class="form__column">
                                     <label for="name">Имя</label>
-                                    <input type="text" name="name" autocomplete="off">
+                                    <input type="text" id="name" name="name" autocomplete="off">
                                 </div>
                                 <div class="form__column">
                                     <label for="phone">Номер телефона*</label>
-                                    <input type="tel" name="phone" autocomplete="off" placeholder="+380(__)___-__-__">
+                                    <input type="tel" id="phone" name="phone" autocomplete="off" placeholder="+380(__)___-__-__">
                                 </div>
                             </div>
                             <button type="submit" class="popup__btn order-btn">КУПИТЬ СО СКИДКОЙ</button>
