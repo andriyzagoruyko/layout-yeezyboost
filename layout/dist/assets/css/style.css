@@ -2057,6 +2057,7 @@ a {
   cursor: pointer;
   max-width: 100%;
   outline: none;
+  text-transform: uppercase;
   -webkit-transition: -webkit-box-shadow 0.5s;
   transition: -webkit-box-shadow 0.5s;
   -o-transition: box-shadow 0.5s;

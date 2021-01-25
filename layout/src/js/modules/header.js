@@ -20,7 +20,7 @@ export default () => {
 
     window.addEventListener('scroll', headerBackgroudColor);
     window.addEventListener('load', () => {
-        headerOpacity = +getComputedStyle(headerGradient).opacity
+        headerOpacity = +getComputedStyle(headerGradient).opacity;
         headerBackgroudColor();
     });
 }
